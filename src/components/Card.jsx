@@ -33,7 +33,8 @@ const CardBody = styled.div`
     p{
         font-size: 14px;
         text-align: center;
-        padding: 0px 10px        
+        padding: 0px 10px;   
+        color: #000;     
     }
 `
 
